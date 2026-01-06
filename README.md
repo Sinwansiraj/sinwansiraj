@@ -26,23 +26,51 @@
 
 ---
 
-### 🚀 Current Projects
+# 🚀 Current Projects
 
-#### 🍽️ Swiggy's Restaurant Recommendation System (Streamlit App)
+## 📊 AI-Driven Lead Quality Scoring System
 
-> A user-friendly Streamlit app that suggests restaurants based on user preferences using clustering & similarity techniques.
+> An end-to-end machine learning system that scores and prioritizes sales leads based on their likelihood of conversion, enabling sales teams to focus on high-value prospects.
 
-* One-hot encoding, preprocessing, cosine similarity
-* Real-time filtering and UI with Streamlit
-* Project focus: Food Delivery, NLP (upcoming)
+### 🔹 Key Features
+- CRM data preprocessing and feature engineering  
+- Conversion rate analysis and lead behavior insights  
+- Classification models:
+  - Logistic Regression  
+  - Random Forest  
+  - XGBoost  
+- Model evaluation using:
+  - ROC-AUC  
+  - Precision  
+  - Recall  
+  - F1-Score  
+- Business impact analysis:
+  - Identified hot leads  
+  - Reduced wasted sales effort  
+  - Minimized missed opportunities  
 
-#### ⚡ PowerPulse: Household Energy Usage Forecast
+### 🎯 Project Focus
+**Sales Analytics | Machine Learning | Business Decision Support**
 
-> A predictive modeling project aimed at estimating future household energy consumption patterns.
+---
 
-* Data Cleaning & Feature Engineering
-* Regression Models (Linear, Random Forest, XGBoost)
-* Dashboard integration for insights visualization
+## 🎙️ Whisper-Based Voice Transcription System
+
+> A speech-to-text application built using OpenAI’s Whisper model to accurately transcribe spoken audio into text, even in noisy environments.
+
+### 🔹 Key Features
+- Audio preprocessing and segmentation  
+- Speech-to-text transcription using Whisper  
+- Support for:
+  - Real-time audio input  
+  - Pre-recorded audio files  
+- Noise handling and transcription accuracy optimization  
+- Structured and readable text output formats  
+
+### 🎯 Project Focus
+**Speech Recognition | Natural Language Processing (NLP) | Audio Processing**
+
+---
 
 ---
 ### 🧠 Skills
