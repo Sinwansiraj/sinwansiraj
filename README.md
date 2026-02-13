@@ -25,35 +25,82 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3D3D3D?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
+## 🚀 Featured Projects
 
-# 🚀 Current Projects
+### 🤖 Mini Zia – AI-Powered Business Insight Generator
 
-## 📊 AI-Driven Lead Quality Scoring System
+AI-driven tool that analyzes business KPIs, detects anomalies, identifies trends, and generates actionable insights using an LLM-based rephrasing engine.
 
-> An end-to-end machine learning system that scores and prioritizes sales leads based on their likelihood of conversion, enabling sales teams to focus on high-value prospects.
-
-### 🔹 Key Features
-- CRM data preprocessing and feature engineering  
-- Conversion rate analysis and lead behavior insights  
-- Classification models:
-  - Logistic Regression  
-  - Random Forest  
-  - XGBoost  
-- Model evaluation using:
-  - ROC-AUC  
-  - Precision  
-  - Recall  
-  - F1-Score  
-- Business impact analysis:
-  - Identified hot leads  
-  - Reduced wasted sales effort  
-  - Minimized missed opportunities  
-
-### 🎯 Project Focus
-**Sales Analytics | Machine Learning | Business Decision Support**
+**Tech:** Python, Pandas, Streamlit, LLM APIs  
+**Focus:** Business Analytics, Automation, AI Insights
 
 ---
 
+### 📈 Stock Analysis Dashboard
+
+Interactive dashboard providing top gainers/losers, sector-wise performance, cumulative returns, and time-based insights.
+
+**Tech:** Python, Pandas, SQL, Streamlit, Power BI  
+**Focus:** Financial Analytics, Data Visualization
+
+---
+
+### 🎯 AI Lead Scoring System
+
+Machine learning system that scores and prioritizes B2B leads to improve CRM conversion efficiency.
+
+**Tech:** Python, Scikit-learn, XGBoost, Pandas  
+**Focus:** Sales Analytics, Classification, Business Intelligence
+
+---
+
+### 🐟 Fish Image Classification
+
+Deep learning multiclass image classification model with a Streamlit interface for real-time predictions.
+
+**Tech:** TensorFlow, Keras, CNN, Streamlit  
+**Focus:** Computer Vision, Deep Learning
+
+---
+
+### 🍽️ Restaurant Recommendation System
+
+Similarity-based recommendation engine that suggests restaurants based on cuisine, location, and ratings.
+
+**Tech:** Python, Pandas, Scikit-learn, Streamlit  
+**Focus:** Recommendation Systems, Data Apps
+
+---
+
+### 🚌 Redbus Data Scraping System
+
+Automated Selenium-based scraping pipeline for bus routes, prices, and availability, with a Streamlit dashboard.
+
+**Tech:** Python, Selenium, SQL, Streamlit  
+**Focus:** Web Scraping, Data Pipelines
+
+---
+
+### 🔋 PowerPulse: Household Energy Forecast
+Predictive model for household energy usage using regression techniques and feature engineering.
+
+**Tech:** Python, Scikit-learn, Pandas  
+**Focus:** Time Series, Regression, Energy Analytics
+
+---
+
+### 📰 News Article Categorization (AWS Deployment)
+NLP-based classification system deployed using AWS infrastructure.
+
+**Tech:** Python, NLP, Scikit-learn, AWS, Streamlit  
+**Focus:** Text Classification, Cloud Deployment
+
+
+
+
+
+---
+# 🚀 Current Projects
 ## 🎙️ Whisper-Based Voice Transcription System
 
 > A speech-to-text application built using OpenAI’s Whisper model to accurately transcribe spoken audio into text, even in noisy environments.
