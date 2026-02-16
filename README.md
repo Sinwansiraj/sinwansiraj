@@ -159,7 +159,7 @@ NLP-based classification system deployed using AWS infrastructure.
 * 📧 Email: **sinwanmohammed022@**
 * 📞 Phone: **+91 7550313915**
 * 🌐 LinkedIn: [Sinwan Siraj](https://www.linkedin.com/in/sinwan-siraj-07b410162)
-* 🧑‍💼 Portfolio: \[Coming Soon...]
+* 🧑‍💼 Portfolio: [Sinwan Siraj portfolio](https://portfolio-sindi120706.streamlit.app)
 
 ---
 
